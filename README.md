@@ -1,6 +1,6 @@
-# LNMIIT Girls Hostel - Washing Machine Booking System
+# Automated-Laundry-Availability-and-Reservation-System
 
-A complete web application for booking washing machines in LNMIIT Girls Hostel with user booking system and admin portal for machine management.
+A complete web application for booking washing machines 
 
 ## Features
 
@@ -173,12 +173,8 @@ The application uses SQLite database with three main tables:
 - Mobile app development
 - Integration with college ID card system
 
-## Support
 
-For technical support or feature requests, contact the development team or submit issues through the appropriate channels.
 
 ---
 
-**Developed for LNMIIT Girls Hostel**
-*Making laundry booking easier, one click at a time!*
 
